@@ -1,0 +1,30 @@
+
+
+
+
+.header {
+    background-color: #606268;
+    padding: 2%;
+}
+
+
+
+
+.icons img {
+    width: 90px;
+    height: 75px;
+    display: none;
+  
+}
+
+.one {
+    ba
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
